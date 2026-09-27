@@ -1345,6 +1345,10 @@ file = "mods/OpenCCSensors-1.6.4.5.jar"
 hash = "b6ae194571af6d10fd9503198996677fe482d0e99490cf156ef133a24feaa279"
 
 [[files]]
+file = "mods/TConstructFakePlayerFix-1.0.0.jar"
+hash = "f36cbc3d3bde699a98b9a140f0253a2cdc4cb25bb9e31b370a0b078cdcccb0c4"
+
+[[files]]
 file = "mods/additional-buildcraft-objects.pw.toml"
 hash = "9cb7a5f4f6de54144b59aa964bcbfd0f5fdba5f65db8a1931ec12131f26ddf5f"
 metafile = true
