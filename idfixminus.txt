@@ -1533,6 +1533,7 @@ items {
     S:14108=tconstruct.TConstruct|Wooden Chestplate|14108
     S:14109=tconstruct.TConstruct|Wooden Pants|14109
     S:14110=tconstruct.TConstruct|Wooden Boots|14110
+    S:14111=tconstruct.TConstruct|Gloves|14111
     S:14112=tconstruct.TConstruct|Knapsack|14112
     S:14113=tconstruct.TConstruct|Golden Head|14113
     S:14115=tconstruct.TConstruct|Jerky|14115
