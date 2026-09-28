@@ -1,13 +1,8 @@
-name = "Tinkers Construct"
-filename = "TConstruct_mc1.6.4_EX.30.jar"
+name = "Tinkers' Construct"
+filename = "TConstruct-1.6.4-0.1.0-SNAPSHOT.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5decc0febc47bfe850ab4ee1037642a89e860151"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2205024
-project-id = 74072
+url = "https://github.com/tomodachi94/TinkersConstruct-1.6.4/releases/download/v2026.09.27/TConstruct-1.6.4-0.1.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "885953072079cee573f5f77708c6731f597ca162101ebbac082845c55b724148"

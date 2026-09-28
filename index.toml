@@ -1828,7 +1828,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "6537584310a4fcc5d6c425a30c740a2fbfc5e3c1078049450c577ae4bb603e6e"
+hash = "9c4c13d8fb3c7a245f8128d7228335b58386c92746cc42100e40d78dde22c45a"
 metafile = true
 
 [[files]]
