@@ -854,6 +854,10 @@ file = "config/MattparksCore.conf"
 hash = "2de354482dbf9ed3df6beb564ad14aa7914f98a72f86aad13f06ebd59547edd4"
 
 [[files]]
+file = "config/Mekanism.cfg"
+hash = "6eedc82ced97f0d09b29df38750fb27a9df0f594eed29fc43113760278431439"
+
+[[files]]
 file = "config/MoarPeripherals.cfg"
 hash = "5ef51ceee0c1a19a82edce243f01ed4cda5b458a58b457cda91a13011bcdf82c"
 
@@ -1316,7 +1320,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "382374db1113758dc28b961544591d77fd6087f876a0750a0dfc711fb834a823"
+hash = "59e420f723ca93540093da96473dc12f5ccbe63b1885ceb3ca3fa4945a23b082"
 
 [[files]]
 file = "java.security"
@@ -1595,6 +1599,11 @@ metafile = true
 [[files]]
 file = "mods/mattcore.pw.toml"
 hash = "af4e083f7fb55565aa1818f330e6e81515baa9233c338412b9481a66a697c132"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "2d7ff96b117cac8bfdc54474d1cbd1a077f4d36d2766c29a0040ec26dd589768"
 metafile = true
 
 [[files]]
@@ -1905,6 +1914,10 @@ hash = "c4dab1679253f2d93bb0b985aec091a05a31bdaa916582f7016fa068a0aa4635"
 [[files]]
 file = "scripts/creative_builder_wand.zs"
 hash = "de08485432b8768d392e5a83e444d41d12bfb39df18872897d177ce8134e24ff"
+
+[[files]]
+file = "scripts/liquified_ender.zs"
+hash = "aa98cf783291a5c84a53c5715c108d4aece7d644899ef080ad4c8a3fa24302a4"
 
 [[files]]
 file = "scripts/marble.zs"
