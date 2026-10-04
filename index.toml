@@ -1405,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "5cdade1e845bb279906ef0269638e9f1514f8928baeb63f4e9b73224a18a77be"
+hash = "fbe689c3fc4fb1926272ad1200557f42ca31f30941314e86a5e6814931fafe9c"
 metafile = true
 
 [[files]]
