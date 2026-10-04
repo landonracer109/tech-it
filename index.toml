@@ -1429,6 +1429,11 @@ hash = "73bc58ed91c38906cca6a0e6acb83b3bd82f63f9a3725b0de539dd5262b976c8"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "d5c08d09c3b83b6f5744993f11d711332951703a0146687a76baf14b3c7c4785"
+metafile = true
+
+[[files]]
 file = "mods/chickenchunks.pw.toml"
 hash = "d4a727680c7018ebba249a2ed5746c078190a08b39adfa76fda6e836759576fc"
 metafile = true
