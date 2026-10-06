@@ -787,7 +787,7 @@ hash = "4fa16d4873444866f9232fa0c2a09eb329e97fbb741151d52c0285b4d7051679"
 
 [[files]]
 file = "config/Galacticraft/core.conf"
-hash = "d287fd83af08b7cebe06396a78b6997666440e21cb6864721bcbb18fae5d3902"
+hash = "b6267add44f3ac8bc80345bab373b1be8c3888c4f0e256b091e1327dbe3e22e4"
 
 [[files]]
 file = "config/Galacticraft/mars.conf"
