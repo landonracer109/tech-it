@@ -855,7 +855,7 @@ hash = "2de354482dbf9ed3df6beb564ad14aa7914f98a72f86aad13f06ebd59547edd4"
 
 [[files]]
 file = "config/Mekanism.cfg"
-hash = "6eedc82ced97f0d09b29df38750fb27a9df0f594eed29fc43113760278431439"
+hash = "6c842674e096b8ef7121a8e22fc7c6d9de30a5303e4a2b81221bf18c4fb0a17d"
 
 [[files]]
 file = "config/MoarPeripherals.cfg"
@@ -1027,7 +1027,7 @@ hash = "fa30ed3ea548871cb1c09b1fb41b7571f765667c5e32752e90063a3f6dc369b5"
 
 [[files]]
 file = "config/cofh/CoFHWorld-Generation.cfg"
-hash = "60257fd26e57b848144ac9aaccda3517a63f11dc8070d5b4c0b1761117a385f6"
+hash = "e9a1bb21a84ac118ddbbc4b36717dd4a8548576a5e5fb24bb11e15f4d2c289aa"
 
 [[files]]
 file = "config/cofh/CoFHWorld.cfg"
@@ -1055,7 +1055,7 @@ hash = "78d717220216c684eaa98be73f3ea43837c359db6edffb9da6ef28dc7ae6f323"
 
 [[files]]
 file = "config/cofh/WorldCustomGen.txt"
-hash = "f2249f41264d62fc4b4bc1362e7054fdf3bf3d048db7795ac0694a25dee3a7bf"
+hash = "5edcbd831a649cdb2e0995a82368988dee54b86ca6148ad8513ba530a5055a2c"
 
 [[files]]
 file = "config/computronics.cfg"
@@ -1277,6 +1277,14 @@ hash = "90c6a9be29b4c848017f26c4cdaf7a6fe3c5f4f7fcdf8738398f276a940f1f8d"
 [[files]]
 file = "config/powercrystals/netherores/sv_SE.lang"
 hash = "834161f5e4c681e0ca046ad226e40fcdc60fb42db0f872c3f9ddfe0bfcf27c34"
+
+[[files]]
+file = "config/railcraft/modules.cfg"
+hash = "6fa0615dd230ed96a0b38ee47e1f8701f3875120d99d7ccb32918da29f347630"
+
+[[files]]
+file = "config/railcraft/railcraft.cfg"
+hash = "af882b1c8a057c06b688f95ec20ab337892fadeb8e620b72cee7441e4f2b01c5"
 
 [[files]]
 file = "config/relauncher/config.cfg"
