@@ -1771,6 +1771,11 @@ hash = "c8c34446eb77cfe9a6eb0c27a9888fd052139db8b64f2337191e98460c542f2b"
 metafile = true
 
 [[files]]
+file = "mods/railcraft.pw.toml"
+hash = "eb21e24cdac229f642416e427165dd147d56a2fae44225c0df5fdd034bd9c52c"
+metafile = true
+
+[[files]]
 file = "mods/redstone-arsenal.pw.toml"
 hash = "38a198d39a3a295bbd7a5695da63821cfde2a31701c354b96f85041abb586241"
 metafile = true
