@@ -1,0 +1,13 @@
+name = "Railcraft"
+filename = "Railcraft_1.6.4-8.4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f06c7e85bb50cdf5f9f882826839556fdc0bfead"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 775935
+project-id = 51195

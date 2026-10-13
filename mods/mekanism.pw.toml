@@ -1,0 +1,8 @@
+name = "Mekanism"
+filename = "Mekanism-6.0.2.17.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/M/mekanism/1.6.4/Mekanism-6.0.2.17.jar"
+hash-format = "sha256"
+hash = "26abd201f5d077621e6cfc50e4e26007ba74ebc7cc09f7cecfc6f2e41d19b7d4"

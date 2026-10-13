@@ -854,6 +854,10 @@ file = "config/MattparksCore.conf"
 hash = "2de354482dbf9ed3df6beb564ad14aa7914f98a72f86aad13f06ebd59547edd4"
 
 [[files]]
+file = "config/Mekanism.cfg"
+hash = "6c842674e096b8ef7121a8e22fc7c6d9de30a5303e4a2b81221bf18c4fb0a17d"
+
+[[files]]
 file = "config/MoarPeripherals.cfg"
 hash = "2a41eddeb9d48df7612e8b4c95024fdcf9734613b79f7d6494a9e841a7dbd654"
 
@@ -1023,7 +1027,7 @@ hash = "fa30ed3ea548871cb1c09b1fb41b7571f765667c5e32752e90063a3f6dc369b5"
 
 [[files]]
 file = "config/cofh/CoFHWorld-Generation.cfg"
-hash = "60257fd26e57b848144ac9aaccda3517a63f11dc8070d5b4c0b1761117a385f6"
+hash = "e9a1bb21a84ac118ddbbc4b36717dd4a8548576a5e5fb24bb11e15f4d2c289aa"
 
 [[files]]
 file = "config/cofh/CoFHWorld.cfg"
@@ -1051,7 +1055,7 @@ hash = "78d717220216c684eaa98be73f3ea43837c359db6edffb9da6ef28dc7ae6f323"
 
 [[files]]
 file = "config/cofh/WorldCustomGen.txt"
-hash = "f2249f41264d62fc4b4bc1362e7054fdf3bf3d048db7795ac0694a25dee3a7bf"
+hash = "5edcbd831a649cdb2e0995a82368988dee54b86ca6148ad8513ba530a5055a2c"
 
 [[files]]
 file = "config/computronics.cfg"
@@ -1275,6 +1279,14 @@ file = "config/powercrystals/netherores/sv_SE.lang"
 hash = "834161f5e4c681e0ca046ad226e40fcdc60fb42db0f872c3f9ddfe0bfcf27c34"
 
 [[files]]
+file = "config/railcraft/modules.cfg"
+hash = "6fa0615dd230ed96a0b38ee47e1f8701f3875120d99d7ccb32918da29f347630"
+
+[[files]]
+file = "config/railcraft/railcraft.cfg"
+hash = "af882b1c8a057c06b688f95ec20ab337892fadeb8e620b72cee7441e4f2b01c5"
+
+[[files]]
 file = "config/relauncher/config.cfg"
 hash = "a116038a73c1e56136d70e46ea453f69d6dc49be3299401076aed3c50733fbec"
 
@@ -1316,7 +1328,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "382374db1113758dc28b961544591d77fd6087f876a0750a0dfc711fb834a823"
+hash = "59e420f723ca93540093da96473dc12f5ccbe63b1885ceb3ca3fa4945a23b082"
 
 [[files]]
 file = "java.security"
@@ -1518,6 +1530,11 @@ hash = "53be04f020d16b09bf60ffdb800c9c889030a1a5e5e0d43e3c2039c01e487377"
 metafile = true
 
 [[files]]
+file = "mods/harvestcraft-waila-fixes.pw.toml"
+hash = "11e3974f589439c9b76f26b0bc4020474fba570e3afb9bf119e23485a90b28b5"
+metafile = true
+
+[[files]]
 file = "mods/hats.pw.toml"
 hash = "dd296bfad83b27cbeec85bc62a3f0fddab9d1c300508cbe64e2df9773abab909"
 metafile = true
@@ -1590,6 +1607,11 @@ metafile = true
 [[files]]
 file = "mods/mattcore.pw.toml"
 hash = "af4e083f7fb55565aa1818f330e6e81515baa9233c338412b9481a66a697c132"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "2d7ff96b117cac8bfdc54474d1cbd1a077f4d36d2766c29a0040ec26dd589768"
 metafile = true
 
 [[files]]
@@ -1757,6 +1779,11 @@ hash = "c8c34446eb77cfe9a6eb0c27a9888fd052139db8b64f2337191e98460c542f2b"
 metafile = true
 
 [[files]]
+file = "mods/railcraft.pw.toml"
+hash = "eb21e24cdac229f642416e427165dd147d56a2fae44225c0df5fdd034bd9c52c"
+metafile = true
+
+[[files]]
 file = "mods/redstone-arsenal.pw.toml"
 hash = "38a198d39a3a295bbd7a5695da63821cfde2a31701c354b96f85041abb586241"
 metafile = true
@@ -1828,7 +1855,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "d4f5fe64aa46478c32650ca3ac1a4caa0d84affdeba1f85f5661b22fde60b97f"
+hash = "5ed3568709847ebc3c516035b76103e1d064acfd584c1b41aad95ca19f87a15c"
 metafile = true
 
 [[files]]
@@ -1866,7 +1893,7 @@ metafile = true
 
 [[files]]
 file = "mods/waila.pw.toml"
-hash = "cf23e0c4ca984ca9511bcd526c0e52f1aa02da3d53d0af51b5af549b3bcafe9b"
+hash = "1a31b80f37da9bcabe6cd2448d6e824c8807b84a0cfc2928ab637a6ae2097d7e"
 metafile = true
 
 [[files]]
@@ -1900,6 +1927,10 @@ hash = "c4dab1679253f2d93bb0b985aec091a05a31bdaa916582f7016fa068a0aa4635"
 [[files]]
 file = "scripts/creative_builder_wand.zs"
 hash = "de08485432b8768d392e5a83e444d41d12bfb39df18872897d177ce8134e24ff"
+
+[[files]]
+file = "scripts/liquified_ender.zs"
+hash = "aa98cf783291a5c84a53c5715c108d4aece7d644899ef080ad4c8a3fa24302a4"
 
 [[files]]
 file = "scripts/marble.zs"
