@@ -1546,7 +1546,7 @@ metafile = true
 
 [[files]]
 file = "mods/idfix-minus.pw.toml"
-hash = "c5fd254a123f6d9afadac17b4d274e489df9c27b665607e3dc874118512d5fc1"
+hash = "75ffac7082f66f8c25d4ec26622c5d6f80bd9599eb018aef2dc08e26e3e37d35"
 metafile = true
 
 [[files]]
