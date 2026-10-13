@@ -4,7 +4,7 @@ side = "both"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Handles ID conflicts mostly-automatically; keep this enabled unless you know what you're doing!"
 
 [download]
