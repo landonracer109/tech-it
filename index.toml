@@ -855,7 +855,7 @@ hash = "2de354482dbf9ed3df6beb564ad14aa7914f98a72f86aad13f06ebd59547edd4"
 
 [[files]]
 file = "config/MoarPeripherals.cfg"
-hash = "5ef51ceee0c1a19a82edce243f01ed4cda5b458a58b457cda91a13011bcdf82c"
+hash = "2a41eddeb9d48df7612e8b4c95024fdcf9734613b79f7d6494a9e841a7dbd654"
 
 [[files]]
 file = "config/Modular Force Field System.cfg"
@@ -1429,11 +1429,6 @@ hash = "73bc58ed91c38906cca6a0e6acb83b3bd82f63f9a3725b0de539dd5262b976c8"
 metafile = true
 
 [[files]]
-file = "mods/cb-multipart.pw.toml"
-hash = "d5c08d09c3b83b6f5744993f11d711332951703a0146687a76baf14b3c7c4785"
-metafile = true
-
-[[files]]
 file = "mods/chickenchunks.pw.toml"
 hash = "d4a727680c7018ebba249a2ed5746c078190a08b39adfa76fda6e836759576fc"
 metafile = true
@@ -1504,7 +1499,7 @@ hash = "c5400d5a24bdda3d13524f249e6f872dba5ee95a8ac947b7ba974c3943694e24"
 
 [[files]]
 file = "mods/forge-multipart.pw.toml"
-hash = "7c5bd49c512cefef75e9d6e90b8f12e37727171695eb66adaff1f6b29f1c0184"
+hash = "d5c08d09c3b83b6f5744993f11d711332951703a0146687a76baf14b3c7c4785"
 metafile = true
 
 [[files]]
