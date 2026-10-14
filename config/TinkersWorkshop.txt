@@ -256,8 +256,6 @@ looks {
 mobs {
     # Set to 0 to disable
     I:"Blue Slime spawn chance"=2
-
-    # Set to 0 to disable
     I:"Metal Slime spawn chance"=1
 }
 

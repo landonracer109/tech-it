@@ -715,6 +715,16 @@ blocks {
     S:3785=atomicscience.AtomicScience|quantumAssembler|3785
     S:3787=atomicscience.AtomicScience|reactorDrain|3787
     S:3814=assets.pamharvestcraft.PamHarvestCraft|pamcactusfruitwildID|3814
+    S:3866=net.minecraftforge.common.Configuration|BoundingBlock|3029
+    S:3867=net.minecraftforge.common.Configuration|GasTank|3028
+    S:3868=net.minecraftforge.common.Configuration|EnergyCube|3027
+    S:3869=net.minecraftforge.common.Configuration|ObsidianTNT|3026
+    S:3870=net.minecraftforge.common.Configuration|CardboardBox|3025
+    S:3871=net.minecraftforge.common.Configuration|MachineBlock2|3024
+    S:3872=net.minecraftforge.common.Configuration|MachineBlock|3023
+    S:3873=net.minecraftforge.common.Configuration|BasicBlock2|3022
+    S:3874=net.minecraftforge.common.Configuration|BasicBlock|3021
+    S:3875=net.minecraftforge.common.Configuration|OreBlock|3020
     S:3876=net.minecraftforge.common.Configuration|BoundingBlock|3019
     S:3877=net.minecraftforge.common.Configuration|GasTank|3018
     S:3878=net.minecraftforge.common.Configuration|EnergyCube|3017
